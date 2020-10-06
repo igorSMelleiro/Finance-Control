@@ -3,11 +3,11 @@ Finance control system developed with MongoDB,  Express, Angular and Node.js (Cr
 
 # INICIAR FRONT-END 
 
-Navegue até o local da pasta "angular1" e rode o comando "npm run dev"
+Navegue até o local da pasta "angular1" e rode o comando "npm run dev".
 
 # INICIAR BACK-END 
 
-Navegue até o local da pasta "back-end" e rode o comando "npm run dev"
+Navegue até o local da pasta "back-end" e rode o comando "npm run dev".
 
 # Mais informações
 
